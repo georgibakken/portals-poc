@@ -2,7 +2,7 @@
   "apps":
   [
       {
-          "appId": "dk.dsb.portals-poc",
+          "appId": "d53b978a",
           "root": "host-nextjs",
           "dependencyInstallCommand": "yarn install",
           "webBuildCommand": "yarn build"
